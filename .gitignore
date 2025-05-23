@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Arquivos de ambiente (contêm senhas, tokens, etc.)
+.env
+
+# Logs
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+
+# Build/output (caso use futuramente)
+dist/
+build/
+
+# Arquivos de backup
+*.bak
+*.old
+*.tmp
+
+# Outros (opcional)
+*.zip
